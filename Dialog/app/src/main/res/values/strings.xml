@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Dialog</string>
+    <string name="show_input_dialog">Show Input Dialog</string>
+</resources>
